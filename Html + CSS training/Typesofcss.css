@@ -1,0 +1,9 @@
+body{
+    background-color: gray;
+}
+
+.Internal{
+    background-color: cyan;
+    text-align: center;
+    font-size: 55px;
+}

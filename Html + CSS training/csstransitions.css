@@ -1,0 +1,11 @@
+.box{
+    background-color: tomato;
+    padding: 100px;
+    transition-property: background-color padding;
+    transition-duration: 2s;
+    transition-timing-function: ease;
+}
+.box:hover{
+    background-color: red;
+padding: 50px;
+}

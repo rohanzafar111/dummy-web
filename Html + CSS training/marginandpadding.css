@@ -1,0 +1,29 @@
+.parent{
+    background-color: orange;
+    border: 3px solid black;
+    border-radius: 55px;
+    width: 1000px;
+    height: 600px;
+    padding-left: 150px;
+    padding-right: 150px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    
+}
+.parent .child{
+    border: 5px double red;
+    background-color: darkgreen;
+    width: 300px;
+    height: 250px;
+    margin: 40px;
+    padding: 100px;
+}
+.parent .child .subchild{
+    background-color: lime;
+    border: 3px solid violet;
+    width: 150px;
+    height: 150px;
+    overflow: scroll;
+    cursor: pointer;
+
+}

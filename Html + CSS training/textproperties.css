@@ -1,0 +1,21 @@
+a{
+    text-decoration: none;
+    color: black;
+    font-size: 30px;
+    
+}
+.textproperties1{
+    text-align: center;
+    background-color: orange;
+    border: 3px solid black;
+    padding: 44px;
+    border-radius: 44px;
+}
+.textproperties2{
+    text-transform: uppercase;
+    background-color: yellow;
+    padding: 44px;
+    border: 3px dotted red;
+    border-radius: 33px;
+    cursor: pointer;
+}

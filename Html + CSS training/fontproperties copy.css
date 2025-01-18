@@ -1,0 +1,14 @@
+#fontproperties1{
+    /* font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; */
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+font-family: "Robot", serif;
+}
+#fontproperties2{
+    font-size: xx-large;
+    font-style: italic;
+}
+#fontproperties3{
+    font-weight: bold;
+    font-size: 20px;
+}

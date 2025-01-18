@@ -1,0 +1,12 @@
+h1{
+    display: inline-block;
+    background-color: purple;
+    height: 55px;
+}
+span{
+    display: block;
+    height: 55px;
+}
+p{
+    display: none;
+}
